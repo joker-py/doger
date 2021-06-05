@@ -1,3 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=timeGradient&height=100)
+![header](https://capsule-render.vercel.app/api?type=wave&color=timeGradient&height=200)
 # Ez
-![footer](https://capsule-render.vercel.app/api?type=wave&color=timeGradient&section=footer&height=100)
+![footer](https://capsule-render.vercel.app/api?type=wave&color=timeGradient&section=footer&height=200)
